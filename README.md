@@ -53,6 +53,12 @@ Function to remove a task from the list when the remove button is clicked.
 Summary:
 When the page is loaded, users can type a task into the input field and click "Add" or press Enter to add it to the list. Each task will appear as a list item with a "Remove" button next to it. Clicking the "Remove" button will remove the task from the list. The application provides a clean and intuitive interface for managing a simple to-do list.
 
+the overall output of the task
+
+![Screenshot (72)](https://github.com/user-attachments/assets/fefbc3a1-780d-4417-baa8-7e501927008c)
+
+
+
 
 
 
